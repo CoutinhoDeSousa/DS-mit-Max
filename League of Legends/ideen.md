@@ -2,7 +2,7 @@
 
 -[ ] Heatmap kills
 -[ ] Normale Leute Daten
--[ ] 
+-[x] Test 
 
 ## AUsblick:
 
